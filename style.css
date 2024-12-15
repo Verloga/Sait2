@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: pink;
+    padding: 5px;
+}
+
+footer p{
+    background-color: white;
+}
+
+.razdel{
+    background-color: greenyellow;
+}
